@@ -1,0 +1,62 @@
+¿Es un lenguaje compilado?
+Y
+¿Es orientado a objetos?
+Y
+¿Fue creado por Microsoft?
+Y
+C#
+E
+N
+¿Fue creado por Oracle/Sun?
+Y
+Java
+E
+N
+C++
+E
+E
+E
+N
+¿Es usado principalmente para sistemas operativos?
+Y
+C
+E
+N
+Rust
+E
+E
+E
+N
+¿Es principalmente para web?
+Y
+¿Es del lado del cliente?
+Y
+es muy rapido
+Y
+vue
+E
+N
+JavaScript
+E
+E
+N
+Python
+E
+E
+N
+¿Es usado para análisis de datos?
+Y
+R
+E
+N
+¿Es un lenguaje funcional?
+Y
+Haskell
+E
+N
+Go
+E
+E
+E
+E
+E
